@@ -17,7 +17,7 @@ var config = {
         turn_on: "开灯",
         play: "音乐起",
         bannar_coming: "当当当当",
-        balloons_flying: "让气球🎈飘一会",
+        balloons_flying: "🎈飘呀飘",
         cake_fadein: "蛋糕怎么能少呢",
         light_candle: "许个愿吧",
         //wish_message: "陈老师 18岁生日快乐呀！",
